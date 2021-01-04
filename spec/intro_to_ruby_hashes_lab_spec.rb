@@ -6,6 +6,10 @@ describe "We can create complex, nested Hashes by implementing four methods:" do
     describe "returns a hash with" do
       it "one key" do
         expect(base_hash[:railroads]).to eq({})
+<<<<<<< HEAD
+=======
+        
+>>>>>>> d83f7cacf7315014dcc7ea7af4160b781c52b5b8
       end
     end
 
